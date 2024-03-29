@@ -1,0 +1,21 @@
+{
+    "main_url":"https://dev.profteam.su/login",
+    "StudentLogin": "testerStudent",
+    "Emploerlogin": "testerEmployer",
+    "Adminlogin": "testerAdmin",
+    "password": "Password1",
+    "login": "nesol",
+    "passw": "Nesol32281337",
+    "password_fake": "Paword1",
+    "nlogin": "sdsaf",
+    "colledge": "ТТИ",
+    "speciality": "Ме",
+    "text": "Бакалавр",
+    "from_year": 2022,
+    "to_year": 2025,
+    "from_year_wrong": 2,
+    "to_year_wrong": 1945,
+    "role_name": "Хлеб",
+    "role_address": "Пушкина 32",
+    "role_comment": "Как же я обожаю бутеры"
+}
